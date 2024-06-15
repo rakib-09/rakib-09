@@ -6,7 +6,9 @@ I am a software developer with **7 years of experience** in the field. Proficien
 ## Skills and Expertise
 
 - **Microservice System Design & Software Architecture** 🏗️
-- **Database Design** 🗄️: MySQL, PostgreSQL, BigQuery
+- **Database** 🗄️: MySQL, PostgreSQL, BigQuery
+- **Language**: Golang, PHP, Python
+- **Tools**: Kafka, docker, Kubernetes
 - **Fast-Paced Learner** 🚀
 
 ## Current Projects and Technologies
