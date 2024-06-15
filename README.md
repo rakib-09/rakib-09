@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-# Welcome to My GitHub Profile! 👋
-
 ## About Me
 I am a software developer with **7 years of experience** in the field. Proficient in navigating the entire software development lifecycle, from concept to deployment.
 
